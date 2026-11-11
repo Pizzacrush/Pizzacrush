@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me ^_^:
 I'm a student for PUPT<br>I'm currently learning COBOL, Java, HTML, and CSS<br>Hello :)
 
 
